@@ -12,4 +12,6 @@ e.g.
 
 > def square(x : Double) = x * x
 > 
-> square: Double(Double)
+> square: (Double)Double
+
+
